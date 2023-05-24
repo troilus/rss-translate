@@ -11,6 +11,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
 
 ## rss translate links
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source001 [https://news.ycombinator.com/best](https://news.ycombinator.com/best) -> [Hacker News: Best](rss/Hacker News: Best)
