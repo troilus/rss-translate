@@ -11,4 +11,4 @@ next find the translated link in [https://troilus.github.io/rss-translate/](http
 
 ## rss translate links
 
- - source001 [https://news.ycombinator.com/best](https://news.ycombinator.com/best) -> [Hacker_News_Best.xml](rss/Hacker_News_Best.xml)
+ - source001 [https://hnrss.org/best](https://hnrss.org/best) -> [Hacker_News_Best.xml](rss/Hacker_News_Best.xml)
